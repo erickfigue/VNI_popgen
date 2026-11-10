@@ -1,0 +1,7 @@
+# Ignore files
+
+files/
+
+# Ignore vcfs or fasta
+*vcf.gz
+*fasta
