@@ -1,0 +1,1 @@
+/FastData/efigueroa/fastq_processing/scripts/Fastq_to_VCF/3_Filter_Heterozygous.sh

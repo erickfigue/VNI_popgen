@@ -1,0 +1,1 @@
+/FastData/efigueroa/fastq_processing/scripts/Fastq_to_VCF/diploid/step2_MarkAdapters.sh

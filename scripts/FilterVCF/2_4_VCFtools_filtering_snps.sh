@@ -1,0 +1,1 @@
+/FastData/efigueroa/fastq_processing/scripts/Fastq_to_VCF/2_4_VCFtools_filtering_snps.sh

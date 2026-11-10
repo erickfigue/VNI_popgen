@@ -1,0 +1,1 @@
+/FastData/efigueroa/fastq_processing/scripts/Fastq_to_VCF/6_snpEff_VCF_annotation.sh
