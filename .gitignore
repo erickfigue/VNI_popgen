@@ -2,8 +2,6 @@
 
 files/
 
-scripts/
-
 # Ignore vcfs or fasta
 *vcf.gz
 *fasta
