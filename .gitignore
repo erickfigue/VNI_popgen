@@ -1,6 +1,7 @@
 # Ignore files
 
 files/
+
 scripts/
 
 # Ignore vcfs or fasta
